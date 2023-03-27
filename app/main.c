@@ -1,5 +1,6 @@
-#include <stdio.h>
+#include <privacy.h>
 #include <sqlite3.h>
+#include <stdio.h>
 
 #define DB_NAME "risk.db"
 
